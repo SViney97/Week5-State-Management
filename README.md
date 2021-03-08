@@ -1,4 +1,5 @@
 # NgrxTut
+![statemanagement](https://user-images.githubusercontent.com/58524678/110373503-79d57e00-8047-11eb-9ca0-ae4630708170.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
